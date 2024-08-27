@@ -1,7 +1,7 @@
 url: https://20.24.157.72/agghealth/health
-status: down
-code: 502
-responseTime: 3398
-lastUpdated: 2024-08-27T19:39:52.240Z
+status: up
+code: 200
+responseTime: 3102
+lastUpdated: 2024-08-27T19:47:32.429Z
 startTime: 2024-08-27T07:00:06.848Z
 generator: Upptime <https://github.com/upptime/upptime>
