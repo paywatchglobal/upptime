@@ -8,6 +8,45 @@ sites:
     __dangerous__insecure: true
     maxResponseTime: 30000
     __dangerous__body_down_if_text_missing: '"BizLogicAdmin":"healthy","BizLogicWork":"healthy","BizLogicUser":"healthy","BizLogicReport":"healthy","BizLogicGeneral":"healthy","BizLogicFinance":"healthy","BizLogicIntegration":"healthy"'
+  - name: Production Employee Consent Services
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"EmployeeConsent":"healthy","EmployeeConsentService":"healthy"'
+  - name: Production Employer Services
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"EmployerPortal":"healthy","EmployerService":"healthy"'
+  - name: Production Integration-Related Services
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: 'IntegrationCommunication":"healthy","IntegrationHRMS":"healthy","IntegrationReward":"healthy","IntegrationService":"healthy"'
+  - name: Production Payment-related Services
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"PaymentService":"healthy","PayoutService":"healthy"'
+  - name: Production Rule Engine Service
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"RuleEngineService":"healthy"'
+  - name: Production Utility services
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"UtilityPDF":"healthy","UtilityLogic":"healthy"'
+  - name: Production Consent Form Website
+    url: https://form.paywatchglobal.com/id-ID/wilmar-indonesia
+    maxResponseTime: 10000
+  - name: Production Employer Portal Website
+    url: https://employer.myadmin.paywatchglobal.com
+    maxResponseTime: 10000
+  - name: Production myadmin CDN Website
+    url: https://myadmin.paywatchglobal.com/
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
