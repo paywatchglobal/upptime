@@ -58,19 +58,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-integration-related-services",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3285,
-    "timeDay": 4903,
-    "timeWeek": 3285,
-    "timeMonth": 3285,
-    "timeYear": 3285,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 3373,
+    "timeDay": 4717,
+    "timeWeek": 3373,
+    "timeMonth": 3373,
+    "timeYear": 3373,
     "dailyMinutesDown": {
-      "2024-08-31": 0
+      "2024-08-31": 10
     }
   },
   {
