@@ -4,18 +4,20 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-business-logic-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4552,
-    "timeDay": 4816,
-    "timeWeek": 4491,
-    "timeMonth": 4552,
-    "timeYear": 4552,
-    "dailyMinutesDown": {}
+    "time": 4546,
+    "timeDay": 4594,
+    "timeWeek": 4476,
+    "timeMonth": 4546,
+    "timeYear": 4546,
+    "dailyMinutesDown": {
+      "2024-09-18": 0
+    }
   },
   {
     "name": "Production Employee Consent Services",
