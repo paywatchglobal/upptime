@@ -148,9 +148,9 @@
     "url": "https://employer.myadmin.paywatchglobal.com",
     "icon": "https://icons.duckduckgo.com/ip3/employer.myadmin.paywatchglobal.com.ico",
     "slug": "production-employer-portal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,16 +159,18 @@
     "timeWeek": 1173,
     "timeMonth": 1147,
     "timeYear": 1186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-30": 0
+    }
   },
   {
     "name": "Production myadmin CDN Website",
     "url": "https://myadmin.paywatchglobal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/myadmin.paywatchglobal.com.ico",
     "slug": "production-myadmin-cdn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,6 +179,8 @@
     "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 4,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-30": 0
+    }
   }
 ]
