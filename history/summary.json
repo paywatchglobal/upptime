@@ -4,19 +4,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-business-logic-services",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 4485,
-    "timeDay": 3927,
-    "timeWeek": 4210,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
+    "time": 4483,
+    "timeDay": 4089,
+    "timeWeek": 4233,
     "timeMonth": 4411,
-    "timeYear": 4485,
+    "timeYear": 4483,
     "dailyMinutesDown": {
-      "2024-09-30": 17
+      "2024-09-30": 24
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-integration-related-services",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 3651,
-    "timeDay": 3919,
-    "timeWeek": 3734,
-    "timeMonth": 3832,
+    "timeDay": 3828,
+    "timeWeek": 3724,
+    "timeMonth": 3827,
     "timeYear": 3651,
     "dailyMinutesDown": {
-      "2024-09-30": 17
+      "2024-09-30": 24
     }
   },
   {
@@ -155,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/employer.myadmin.paywatchglobal.com.ico",
     "slug": "production-employer-portal-website",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.90%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 1186,
     "timeDay": 1102,
     "timeWeek": 1173,
     "timeMonth": 1147,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2024-09-30": 40
+      "2024-09-30": 48
     }
   },
   {
@@ -175,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/myadmin.paywatchglobal.com.ico",
     "slug": "production-myadmin-cdn-website",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.90%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 4,
     "timeDay": 10,
     "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {
-      "2024-09-30": 40
+      "2024-09-30": 48
     }
   }
 ]
