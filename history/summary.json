@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-business-logic-services",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 4485,
     "timeDay": 3927,
     "timeWeek": 4210,
     "timeMonth": 4411,
     "timeYear": 4485,
     "dailyMinutesDown": {
-      "2024-09-30": 1
+      "2024-09-30": 17
     }
   },
   {
@@ -25,38 +25,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-employee-consent-services",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3626,
     "timeDay": 4003,
     "timeWeek": 3830,
     "timeMonth": 3728,
     "timeYear": 3626,
-    "dailyMinutesDown": {
-      "2024-09-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production Employer Services",
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-employer-services",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3437,
-    "timeDay": 3117,
-    "timeWeek": 3481,
-    "timeMonth": 3581,
-    "timeYear": 3437,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 3453,
+    "timeDay": 3452,
+    "timeWeek": 3552,
+    "timeMonth": 3597,
+    "timeYear": 3453,
     "dailyMinutesDown": {
-      "2024-09-30": 1
+      "2024-09-30": 16
     }
   },
   {
@@ -65,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-integration-related-services",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 3651,
     "timeDay": 3919,
     "timeWeek": 3734,
     "timeMonth": 3832,
     "timeYear": 3651,
     "dailyMinutesDown": {
-      "2024-09-30": 0
+      "2024-09-30": 17
     }
   },
   {
@@ -157,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/employer.myadmin.paywatchglobal.com.ico",
     "slug": "production-employer-portal-website",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 1186,
     "timeDay": 1102,
     "timeWeek": 1173,
     "timeMonth": 1147,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2024-09-30": 24
+      "2024-09-30": 40
     }
   },
   {
@@ -177,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/myadmin.paywatchglobal.com.ico",
     "slug": "production-myadmin-cdn-website",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 4,
     "timeDay": 10,
     "timeWeek": 5,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {
-      "2024-09-30": 24
+      "2024-09-30": 40
     }
   }
 ]
