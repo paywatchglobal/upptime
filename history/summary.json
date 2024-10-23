@@ -100,19 +100,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-rule-engine-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 3469,
-    "timeDay": 3662,
-    "timeWeek": 3660,
-    "timeMonth": 3675,
+    "timeDay": 3593,
+    "timeWeek": 3637,
+    "timeMonth": 3668,
     "timeYear": 3469,
     "dailyMinutesDown": {
-      "2024-10-23": 0
+      "2024-10-23": 7
     }
   },
   {
