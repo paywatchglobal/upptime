@@ -3,11 +3,41 @@ owner: paywatchglobal # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
  
 sites:
-  - name: Production Business-Logic services
+  - name: Business Logic Admin 
     url: https://20.24.157.72/agghealth/health
     __dangerous__insecure: true
     maxResponseTime: 30000
-    __dangerous__body_down_if_text_missing: '"BizLogicAdmin":"healthy","BizLogicWork":"healthy","BizLogicUser":"healthy","BizLogicReport":"healthy","BizLogicGeneral":"healthy","BizLogicFinance":"healthy","BizLogicIntegration":"healthy"'
+    __dangerous__body_down_if_text_missing: '"BizLogicAdmin":"healthy"'
+  - name: Business Logic Work 
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"BizLogicWork":"healthy"'
+  - name: Business Logic User 
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"BizLogicUser":"healthy"'
+  - name: Business Logic Report 
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"BizLogicReport":"healthy"'
+  - name: Business Logic General 
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"BizLogicGeneral":"healthy"'
+  - name: Business Logic Finance 
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"BizLogicFinance":"healthy"'
+  - name: Business Logic Integration 
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"BizLogicIntegration":"healthy"'
   - name: Production Employee Consent Services
     url: https://20.24.157.72/agghealth/health
     __dangerous__insecure: true
@@ -18,16 +48,36 @@ sites:
     __dangerous__insecure: true
     maxResponseTime: 30000
     __dangerous__body_down_if_text_missing: '"EmployerPortal":"healthy","EmployerService":"healthy"'
-  - name: Production Integration-Related Services
+  - name: Integration-Communication
     url: https://20.24.157.72/agghealth/health
     __dangerous__insecure: true
     maxResponseTime: 30000
-    __dangerous__body_down_if_text_missing: 'IntegrationCommunication":"healthy","IntegrationHRMS":"healthy","IntegrationReward":"healthy","IntegrationService":"healthy"'
-  - name: Production Payment-related Services
+    __dangerous__body_down_if_text_missing: 'IntegrationCommunication":"healthy"'
+  - name: Integration-HRMS
     url: https://20.24.157.72/agghealth/health
     __dangerous__insecure: true
     maxResponseTime: 30000
-    __dangerous__body_down_if_text_missing: '"PaymentService":"healthy","PayoutService":"healthy"'
+    __dangerous__body_down_if_text_missing: '"IntegrationHRMS":"healthy"'
+  - name: Integration-Reward
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"IntegrationReward":"healthy"'
+  - name: Integration-Service
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"IntegrationService":"healthy"'
+  - name: Payment Service
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"PaymentService":"healthy"'
+  - name: Payout Service
+    url: https://20.24.157.72/agghealth/health
+    __dangerous__insecure: true
+    maxResponseTime: 30000
+    __dangerous__body_down_if_text_missing: '"PayoutService":"healthy"'
   - name: Production Rule Engine Service
     url: https://20.24.157.72/agghealth/health
     __dangerous__insecure: true
