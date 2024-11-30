@@ -168,19 +168,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "integration-communication",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 4103,
-    "timeDay": 5434,
-    "timeWeek": 4041,
-    "timeMonth": 4103,
-    "timeYear": 4103,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 4169,
+    "timeDay": 5276,
+    "timeWeek": 4143,
+    "timeMonth": 4169,
+    "timeYear": 4169,
     "dailyMinutesDown": {
-      "2024-11-30": 1
+      "2024-11-30": 8
     }
   },
   {
