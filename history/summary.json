@@ -330,9 +330,9 @@
     "url": "https://employer.myadmin.paywatchglobal.com",
     "icon": "https://icons.duckduckgo.com/ip3/employer.myadmin.paywatchglobal.com.ico",
     "slug": "production-employer-portal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -342,6 +342,7 @@
     "timeMonth": 1194,
     "timeYear": 1183,
     "dailyMinutesDown": {
+      "2024-12-22": 0,
       "2024-09-30": 80
     }
   },
