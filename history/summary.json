@@ -168,18 +168,20 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "integration-communication",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3813,
-    "timeDay": 3722,
-    "timeWeek": 3687,
-    "timeMonth": 3766,
-    "timeYear": 3813,
-    "dailyMinutesDown": {}
+    "time": 3845,
+    "timeDay": 4532,
+    "timeWeek": 3894,
+    "timeMonth": 3674,
+    "timeYear": 3845,
+    "dailyMinutesDown": {
+      "2024-12-31": 1
+    }
   },
   {
     "name": "Integration-HRMS",
