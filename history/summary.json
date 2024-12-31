@@ -276,18 +276,20 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-rule-engine-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3620,
-    "timeDay": 3924,
-    "timeWeek": 3648,
-    "timeMonth": 3608,
-    "timeYear": 3620,
-    "dailyMinutesDown": {}
+    "time": 3640,
+    "timeDay": 5190,
+    "timeWeek": 3999,
+    "timeMonth": 3697,
+    "timeYear": 3640,
+    "dailyMinutesDown": {
+      "2024-12-31": 0
+    }
   },
   {
     "name": "Production Utility services",
