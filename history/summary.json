@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-admin",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.29%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4268,
     "timeDay": 4661,
     "timeWeek": 4052,
     "timeMonth": 4288,
     "timeYear": 4268,
-    "dailyMinutesDown": {
-      "2025-01-04": 1080
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic Work",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-work",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.29%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3636,
     "timeDay": 3584,
     "timeWeek": 3327,
     "timeMonth": 3614,
     "timeYear": 3636,
-    "dailyMinutesDown": {
-      "2025-01-04": 1080
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic User",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-user",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.29%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3547,
     "timeDay": 4328,
     "timeWeek": 3245,
     "timeMonth": 3514,
     "timeYear": 3547,
-    "dailyMinutesDown": {
-      "2025-01-04": 1080
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic Report",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-report",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.29%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3656,
     "timeDay": 3208,
     "timeWeek": 3034,
     "timeMonth": 3503,
     "timeYear": 3656,
-    "dailyMinutesDown": {
-      "2025-01-04": 1080
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic General",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-general",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.29%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3619,
     "timeDay": 4511,
     "timeWeek": 3177,
     "timeMonth": 3613,
     "timeYear": 3619,
-    "dailyMinutesDown": {
-      "2025-01-04": 1080
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic Finance",
@@ -105,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-finance",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3556,
     "timeDay": 3622,
     "timeWeek": 3150,
     "timeMonth": 3517,
     "timeYear": 3556,
-    "dailyMinutesDown": {
-      "2025-01-04": 1080
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic Integration",
@@ -125,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-integration",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3611,
     "timeDay": 4323,
     "timeWeek": 3198,
     "timeMonth": 3558,
     "timeYear": 3611,
-    "dailyMinutesDown": {
-      "2025-01-04": 1080
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production Employee Consent Services",
@@ -145,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-employee-consent-services",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "99.43%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3617,
     "timeDay": 3763,
     "timeWeek": 3414,
     "timeMonth": 3562,
     "timeYear": 3617,
-    "dailyMinutesDown": {
-      "2025-01-04": 1080
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production Employer Services",
@@ -165,18 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-employer-services",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "99.42%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 3567,
     "timeDay": 3953,
     "timeWeek": 3149,
     "timeMonth": 3487,
     "timeYear": 3567,
     "dailyMinutesDown": {
-      "2025-01-04": 1080,
       "2024-09-30": 16
     }
   },
@@ -186,19 +169,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "integration-communication",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3824,
     "timeDay": 3681,
     "timeWeek": 3867,
     "timeMonth": 3702,
     "timeYear": 3824,
-    "dailyMinutesDown": {
-      "2025-01-04": 1080
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Integration-HRMS",
@@ -206,19 +187,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "integration-hrms",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3780,
     "timeDay": 4750,
     "timeWeek": 3481,
     "timeMonth": 3747,
     "timeYear": 3780,
-    "dailyMinutesDown": {
-      "2025-01-04": 1080
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Integration-Reward",
@@ -226,19 +205,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "integration-reward",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3702,
     "timeDay": 3305,
     "timeWeek": 3494,
     "timeMonth": 3703,
     "timeYear": 3702,
-    "dailyMinutesDown": {
-      "2025-01-04": 1081
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Integration-Service",
@@ -246,19 +223,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "integration-service",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3612,
     "timeDay": 3830,
     "timeWeek": 3352,
     "timeMonth": 3550,
     "timeYear": 3612,
-    "dailyMinutesDown": {
-      "2025-01-04": 1081
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Payment Service",
@@ -266,19 +241,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "payment-service",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3618,
     "timeDay": 2987,
     "timeWeek": 3349,
     "timeMonth": 3525,
     "timeYear": 3618,
-    "dailyMinutesDown": {
-      "2025-01-04": 1081
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Payout Service",
@@ -286,19 +259,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "payout-service",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.28%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.40%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3664,
     "timeDay": 3940,
     "timeWeek": 3180,
     "timeMonth": 3606,
     "timeYear": 3664,
-    "dailyMinutesDown": {
-      "2025-01-04": 1081
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production Rule Engine Service",
@@ -306,18 +277,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-rule-engine-service",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.01%",
-    "uptimeMonth": "97.47%",
-    "uptimeYear": "99.41%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 3633,
     "timeDay": 2801,
     "timeWeek": 3845,
     "timeMonth": 3648,
     "timeYear": 3633,
     "dailyMinutesDown": {
-      "2025-01-04": 1081,
       "2024-12-31": 27
     }
   },
