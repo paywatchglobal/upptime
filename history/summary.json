@@ -4,19 +4,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4317,
-    "timeDay": 4878,
-    "timeWeek": 4423,
-    "timeMonth": 4385,
-    "timeYear": 4317,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4310,
+    "timeDay": 4262,
+    "timeWeek": 4326,
+    "timeMonth": 4362,
+    "timeYear": 4310,
     "dailyMinutesDown": {
-      "2025-02-20": 2
+      "2025-02-20": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-work",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3687,
-    "timeDay": 1902,
-    "timeWeek": 3170,
-    "timeMonth": 3639,
-    "timeYear": 3687,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 3667,
+    "timeDay": 1874,
+    "timeWeek": 3020,
+    "timeMonth": 3584,
+    "timeYear": 3667,
     "dailyMinutesDown": {
-      "2025-02-20": 2
+      "2025-02-20": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-user",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3686,
-    "timeDay": 1992,
-    "timeWeek": 3372,
-    "timeMonth": 3728,
-    "timeYear": 3686,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 3658,
+    "timeDay": 1679,
+    "timeWeek": 3115,
+    "timeMonth": 3647,
+    "timeYear": 3658,
     "dailyMinutesDown": {
-      "2025-02-20": 2
+      "2025-02-20": 9
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-report",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3704,
-    "timeDay": 1701,
-    "timeWeek": 3319,
-    "timeMonth": 3738,
-    "timeYear": 3704,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 3682,
+    "timeDay": 1665,
+    "timeWeek": 3127,
+    "timeMonth": 3673,
+    "timeYear": 3682,
     "dailyMinutesDown": {
-      "2025-02-20": 2
+      "2025-02-20": 9
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-general",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3676,
-    "timeDay": 2112,
-    "timeWeek": 3299,
-    "timeMonth": 3660,
-    "timeYear": 3676,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 3664,
+    "timeDay": 2263,
+    "timeWeek": 3218,
+    "timeMonth": 3626,
+    "timeYear": 3664,
     "dailyMinutesDown": {
-      "2025-02-20": 2
+      "2025-02-20": 9
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-finance",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 3651,
-    "timeDay": 3073,
-    "timeWeek": 3522,
-    "timeMonth": 3686,
-    "timeYear": 3651,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 3640,
+    "timeDay": 2963,
+    "timeWeek": 3433,
+    "timeMonth": 3655,
+    "timeYear": 3640,
     "dailyMinutesDown": {
-      "2025-02-20": 18
+      "2025-02-20": 25
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-integration",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 3635,
     "timeDay": 2618,
     "timeWeek": 3446,
     "timeMonth": 3647,
     "timeYear": 3635,
     "dailyMinutesDown": {
-      "2025-02-20": 17
+      "2025-02-20": 25
     }
   },
   {
@@ -146,9 +146,9 @@
     "slug": "production-employee-consent-services",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 3653,
     "timeDay": 3770,
@@ -156,7 +156,7 @@
     "timeMonth": 3774,
     "timeYear": 3653,
     "dailyMinutesDown": {
-      "2025-02-20": 1
+      "2025-02-20": 10
     }
   },
   {
@@ -314,9 +314,9 @@
     "slug": "production-utility-services",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 3629,
     "timeDay": 4088,
@@ -324,7 +324,7 @@
     "timeMonth": 3863,
     "timeYear": 3629,
     "dailyMinutesDown": {
-      "2025-02-20": 0
+      "2025-02-20": 9
     }
   },
   {
@@ -332,19 +332,19 @@
     "url": "https://form.paywatchglobal.com/id-ID/wilmar-indonesia",
     "icon": "https://icons.duckduckgo.com/ip3/form.paywatchglobal.com.ico",
     "slug": "production-consent-form-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 2051,
-    "timeDay": 3090,
-    "timeWeek": 2747,
-    "timeMonth": 2237,
+    "timeDay": 2772,
+    "timeWeek": 2679,
+    "timeMonth": 2234,
     "timeYear": 2051,
     "dailyMinutesDown": {
-      "2025-02-20": 0
+      "2025-02-20": 8
     }
   },
   {
