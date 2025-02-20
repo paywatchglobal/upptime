@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-admin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4310,
     "timeDay": 4262,
     "timeWeek": 4326,
     "timeMonth": 4362,
     "timeYear": 4310,
-    "dailyMinutesDown": {
-      "2025-02-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic Work",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-work",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3667,
     "timeDay": 1874,
     "timeWeek": 3020,
     "timeMonth": 3584,
     "timeYear": 3667,
-    "dailyMinutesDown": {
-      "2025-02-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic User",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-user",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3658,
     "timeDay": 1679,
     "timeWeek": 3115,
     "timeMonth": 3647,
     "timeYear": 3658,
-    "dailyMinutesDown": {
-      "2025-02-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic Report",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-report",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3682,
     "timeDay": 1665,
     "timeWeek": 3127,
     "timeMonth": 3673,
     "timeYear": 3682,
-    "dailyMinutesDown": {
-      "2025-02-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic General",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-general",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3664,
     "timeDay": 2263,
     "timeWeek": 3218,
     "timeMonth": 3626,
     "timeYear": 3664,
-    "dailyMinutesDown": {
-      "2025-02-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Business Logic Finance",
@@ -105,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-finance",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 3640,
     "timeDay": 2963,
     "timeWeek": 3433,
     "timeMonth": 3655,
     "timeYear": 3640,
     "dailyMinutesDown": {
-      "2025-02-20": 25
+      "2025-02-20": 16
     }
   },
   {
@@ -124,19 +114,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-integration",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 3635,
-    "timeDay": 2618,
-    "timeWeek": 3446,
-    "timeMonth": 3647,
-    "timeYear": 3635,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
+    "time": 3634,
+    "timeDay": 2848,
+    "timeWeek": 3456,
+    "timeMonth": 3644,
+    "timeYear": 3634,
     "dailyMinutesDown": {
-      "2025-02-20": 25
+      "2025-02-20": 35
     }
   },
   {
@@ -144,19 +134,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-employee-consent-services",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 3653,
-    "timeDay": 3770,
-    "timeWeek": 3824,
-    "timeMonth": 3774,
-    "timeYear": 3653,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 3655,
+    "timeDay": 3814,
+    "timeWeek": 3836,
+    "timeMonth": 3779,
+    "timeYear": 3655,
     "dailyMinutesDown": {
-      "2025-02-20": 10
+      "2025-02-20": 20
     }
   },
   {
@@ -312,19 +302,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "production-utility-services",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 3629,
-    "timeDay": 4088,
-    "timeWeek": 3809,
-    "timeMonth": 3863,
-    "timeYear": 3629,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 3632,
+    "timeDay": 4115,
+    "timeWeek": 3849,
+    "timeMonth": 3872,
+    "timeYear": 3632,
     "dailyMinutesDown": {
-      "2025-02-20": 9
+      "2025-02-20": 20
     }
   },
   {
@@ -334,18 +324,16 @@
     "slug": "production-consent-form-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2051,
     "timeDay": 2772,
     "timeWeek": 2679,
     "timeMonth": 2234,
     "timeYear": 2051,
-    "dailyMinutesDown": {
-      "2025-02-20": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Production Employer Portal Website",
