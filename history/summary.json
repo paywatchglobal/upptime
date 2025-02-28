@@ -314,10 +314,10 @@
     "url": "https://form.paywatchglobal.com/id-ID/wilmar-indonesia",
     "icon": "https://icons.duckduckgo.com/ip3/form.paywatchglobal.com.ico",
     "slug": "production-consent-form-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2043,
@@ -325,17 +325,19 @@
     "timeWeek": 1886,
     "timeMonth": 2221,
     "timeYear": 2043,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 1
+    }
   },
   {
     "name": "Production Employer Portal Website",
     "url": "https://employer.myadmin.paywatchglobal.com",
     "icon": "https://icons.duckduckgo.com/ip3/employer.myadmin.paywatchglobal.com.ico",
     "slug": "production-employer-portal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1230,
@@ -344,6 +346,7 @@
     "timeMonth": 1371,
     "timeYear": 1230,
     "dailyMinutesDown": {
+      "2025-02-28": 1,
       "2024-09-30": 80
     }
   },
@@ -352,9 +355,9 @@
     "url": "https://myadmin.paywatchglobal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/myadmin.paywatchglobal.com.ico",
     "slug": "production-myadmin-cdn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -364,6 +367,7 @@
     "timeMonth": 4,
     "timeYear": 5,
     "dailyMinutesDown": {
+      "2025-02-28": 0,
       "2024-09-30": 80
     }
   }
