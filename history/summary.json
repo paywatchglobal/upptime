@@ -58,19 +58,19 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-report",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3720,
-    "timeDay": 3957,
-    "timeWeek": 4161,
-    "timeMonth": 3712,
-    "timeYear": 3720,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 3722,
+    "timeDay": 3954,
+    "timeWeek": 4137,
+    "timeMonth": 3719,
+    "timeYear": 3722,
     "dailyMinutesDown": {
-      "2025-03-06": 1
+      "2025-03-06": 15
     }
   },
   {
