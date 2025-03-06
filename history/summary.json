@@ -58,18 +58,20 @@
     "url": "https://20.24.157.72/agghealth/health",
     "icon": "https://icons.duckduckgo.com/ip3/20.24.157.72.ico",
     "slug": "business-logic-report",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3711,
-    "timeDay": 3262,
-    "timeWeek": 4091,
-    "timeMonth": 3681,
-    "timeYear": 3711,
-    "dailyMinutesDown": {}
+    "time": 3720,
+    "timeDay": 3957,
+    "timeWeek": 4161,
+    "timeMonth": 3712,
+    "timeYear": 3720,
+    "dailyMinutesDown": {
+      "2025-03-06": 1
+    }
   },
   {
     "name": "Business Logic General",
